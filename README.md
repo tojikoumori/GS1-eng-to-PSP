@@ -1,5 +1,5 @@
 # Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA - Case 4 ENG patch, full save, PSP XMB entry 
-This was a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last case 4 english patch, a .sav with all cases unlocked, and a guide to make the game have its own XMB entry for PSP! (ICON0 and PIC1 included) 
+This was a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last case 4 english patch, a .sav with all cases unlocked, and a guide to make the game have its own XMB entry for PSP! 
 
 You can now play this game fully in english, applying this and another patch made by h3rmit and spazzery (all credits to them for that!), which translates the first 3 cases. [Download their patch here](https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA)
 
@@ -29,7 +29,7 @@ _the final result will look like a regular game sitting on your xmb, but you wil
 
 ## Creating the EBOOT 
 
-1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , [PBP Unpacker](https://github.com/PSP-Archive/pbp-unpacker) and the pre-made ICON0 and PIC1 released (or make you can make your own!)
+1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , [PBP Unpacker](https://github.com/PSP-Archive/pbp-unpacker) and the pre-made ICON0 and PIC1 in the Utilities release (or you can make your own!)
 
 **Inside PBP Unpacker:**
 
