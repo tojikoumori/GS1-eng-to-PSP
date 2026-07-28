@@ -6,23 +6,14 @@ You can now play this game fully in english, applying this and another patch mad
 # Applying the patch
 
 You should apply this patch on top of the case 1-3 one.
-1. Apply the first patch:
+
 Use an IPS patcher to apply the English patch to your Japanese ROM:
 
-**Using Lunar IPS (Windows):**
-1. Open Lunar IPS
-2. Click **Apply IPS Patch**
-3. Select the English translation `.ips` file
-4. Select your `Gyakuten Saiban (Japan).gba` ROM
-5. Save as a new file
-
-**Using FLIPS (cross-platform):**
+**Using Floating IPS (Windows/Linux):**
 1. Open FLIPS
 2. Click **Apply patch**
-3. Select the English translation `.ips` file
+3. Select both of the `.ips` files
 4. Select your `Gyakuten Saiban (Japan).gba` ROM
 5. Save as a new file
-
-2. Now you can apply the fourth case patch doing the same steps on top of the newly created rom you just saved as a new file.
 
 
