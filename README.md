@@ -23,4 +23,15 @@ Use an IPS patcher to apply the English patch to your Japanese ROM:
 4. Select your Gyakuten Saiban ROM
 5. Save as a new file
 
+# PSP XMB Entry guide ;
 
+the final result will look like a regular game sitting on your xmb, but you will actually be launching the game from the FrogGBA emulator directly (no emulator menu appearing - just the game immediately! this is possible with a config.) 
+
+1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , [PBP Unpacker](https://github.com/PSP-Archive/pbp-unpacker) and the pre-made ICON0 and PIC1 released (or make you can make your own!)
+
+**Inside PBP Unpacker**
+2. File > Open, choose the FrogGBA EBOOT, Extract it somewhere accessible.
+3. You'll see a menu with some files under File Name.. Double click on PARAM.SFO
+4. Double click on "FrogGBA" on the 8th line, after TITLE, you can now change it to Phoenix Wright: Ace Attorney
+5. Choose save (you'll find it on the bottom of the page)
+6. Click the 3 dots near ICON0, PIC1 and DATA.PSP, to choose the respective files. You'll find DATA.PSP in the folder you previosuly extracted FrogGBA in.
