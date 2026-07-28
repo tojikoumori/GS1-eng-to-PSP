@@ -24,31 +24,16 @@ Use an IPS patcher to apply the English patch to your Japanese ROM:
 5. Save as a new file
 
 # PSP XMB Entry guide
+<img width="1023" height="572" alt="Screenshot_2026-07-28-19-46-05-036_com miui gallery-edit" src="https://github.com/user-attachments/assets/dc3b1a48-a95e-47b2-b17e-19f188aa66e5" />
 
 _the final result will look like a regular game sitting on your xmb, but you will actually be launching the game from the FrogGBA emulator directly (no emulator menu appearing - the game will launch immediately!)_ 
 
 
 ## Creating the EBOOT 
 
-1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , [PBP Unpacker](https://github.com/PSP-Archive/pbp-unpacker) and the pre-made ICON0 and PIC1 in the Utilities release (or you can make your own!)
+1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , /// and the pre-made ICON0 and PIC1 in the Utilities release (or you can make your own!)
 
-**Inside PBP Unpacker:**
-
-2. File > Open, choose the FrogGBA EBOOT, Extract it somewhere accessible.
-   
-3. You'll see a menu with some files under File Name.. Double click on PARAM.SFO
-  
-4. Double click on "FrogGBA" on the 8th line, after TITLE, you can now change it to Phoenix Wright: Ace Attorney
-
-5. Choose save (you'll find it on the bottom of the page)
-
-6. Click the 3 dots near ICON0, PIC1 and DATA.PSP, to choose the respective files. You'll find DATA.PSP in the folder you previously extracted FrogGBA in.
-
-7. Save.
 
 **Inside your PSP SD card:**
 
-1. Navigate into this directory: PSP > GAME, and drop FrogGBA twice - don't touch the first/original folder anymore
-2. Rename the second folder as the game name
-3. Drop the custom EBOOT you just saved in the previous step, into the second renamed folder.
-
+1. Navigate into this directory: PSP > GAME, and drop ///
