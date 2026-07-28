@@ -10,6 +10,7 @@ You can now play this game fully in english, applying this and another patch mad
 
 <sup>☕ https://buymeacoffee.com/tojikoumori<sup>
 
+---------------------------
 # Applying the patch
 
 You should apply this patch on top of the case 1-3 one.
