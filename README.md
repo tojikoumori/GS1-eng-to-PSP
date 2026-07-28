@@ -13,7 +13,7 @@ Use an IPS patcher to apply the English patch to your Japanese ROM:
 1. Open FLIPS
 2. Click **Apply patch**
 3. Select both of the `.ips` files
-4. Select your `Gyakuten Saiban (Japan).gba` ROM
+4. Select your Gyakuten Saiban ROM
 5. Save as a new file
 
 
