@@ -41,7 +41,7 @@ _the final result will look like a regular game sitting on your xmb, but you wil
 
 5. Choose save (you'll find it on the bottom of the page)
 
-6. Click the 3 dots near ICON0, PIC1 and DATA.PSP, to choose the respective files. You'll find DATA.PSP in the folder you previosuly extracted FrogGBA in.
+6. Click the 3 dots near ICON0, PIC1 and DATA.PSP, to choose the respective files. You'll find DATA.PSP in the folder you previously extracted FrogGBA in.
 
 7. Save.
 
