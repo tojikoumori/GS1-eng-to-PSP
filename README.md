@@ -42,3 +42,12 @@ _the final result will look like a regular game sitting on your xmb, but you wil
 5. Choose save (you'll find it on the bottom of the page)
 
 6. Click the 3 dots near ICON0, PIC1 and DATA.PSP, to choose the respective files. You'll find DATA.PSP in the folder you previosuly extracted FrogGBA in.
+
+7. Save.
+
+**Inside your PSP SD card**
+
+1. Navigate into this directory: PSP > GAME, and drop FrogGBA twice - don't touch the first/original folder anymore
+2. Rename the second folder as the game name
+3. Drop the custom EBOOT you just saved in the previous step, into the second renamed folder.
+
