@@ -16,14 +16,14 @@ You should apply this patch on top of the case 1-3 one.
 
 Use an IPS patcher to apply the English patch to your Japanese ROM:
 
-**Using Floating IPS (Windows/Linux):**
+**Using [Floating IPS](https://www.romhacking.net/utilities/1040/) (Windows/Linux):**
 1. Open FLIPS
 2. Click **Apply patch**
 3. Select both of the `.ips` files
 4. Select your Gyakuten Saiban ROM
 5. Save as a new file
 
-# PSP XMB Entry guide ;
+# PSP XMB Entry guide
 
 _the final result will look like a regular game sitting on your xmb, but you will actually be launching the game from the FrogGBA emulator directly (no emulator menu appearing - just the game immediately! this is possible with a config.)_ 
 
