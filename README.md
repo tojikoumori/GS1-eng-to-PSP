@@ -25,11 +25,11 @@ Use an IPS patcher to apply the English patch to your Japanese ROM:
 
 # PSP XMB Entry guide ;
 
-the final result will look like a regular game sitting on your xmb, but you will actually be launching the game from the FrogGBA emulator directly (no emulator menu appearing - just the game immediately! this is possible with a config.) 
+_the final result will look like a regular game sitting on your xmb, but you will actually be launching the game from the FrogGBA emulator directly (no emulator menu appearing - just the game immediately! this is possible with a config.)_ 
 
 1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , [PBP Unpacker](https://github.com/PSP-Archive/pbp-unpacker) and the pre-made ICON0 and PIC1 released (or make you can make your own!)
 
-**Inside PBP Unpacker**
+**Inside PBP Unpacker:**
 
 2. File > Open, choose the FrogGBA EBOOT, Extract it somewhere accessible.
    
