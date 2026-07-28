@@ -45,7 +45,7 @@ _the final result will look like a regular game sitting on your xmb, but you wil
 
 7. Save.
 
-**Inside your PSP SD card**
+**Inside your PSP SD card:**
 
 1. Navigate into this directory: PSP > GAME, and drop FrogGBA twice - don't touch the first/original folder anymore
 2. Rename the second folder as the game name
