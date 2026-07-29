@@ -40,5 +40,5 @@ _The end result will appear just like a normal game on your XMB. It will be runn
 
 ## [Optional] Using the save file
 
-This is also included in the Utilities release - simply place it into the "save" folder inside your built folder / frogGBA folder. 
+This is also included in the Utilities release - simply place it into the "save" folder inside your freshly built folder / frogGBA folder. 
 
