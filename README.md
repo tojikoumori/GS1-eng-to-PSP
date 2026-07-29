@@ -37,3 +37,7 @@ _The end result will appear just like a normal game on your XMB. It will be runn
 3. Double click 'froggba_xmb.py' and follow what it says - it will ask you to point it to your ROM, ICON0/PIC1 paths, and some settings preferences+
 4. It will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
 
+## [Optional] Using the save file
+
+This is also included in the Utilities release - simply place it into the "save" folder inside your built folder / frogGBA folder. 
+
