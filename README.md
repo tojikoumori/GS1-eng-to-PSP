@@ -32,9 +32,8 @@ _The end result will appear just like a normal game on your XMB. It will be runn
 
 ## Creating the EBOOT 
 
-1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , /// and the pre-made ICON0 and PIC1 in the Utilities release (or you can make your own!)
+1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , and the everything in the Utilities release
+2. Place the contents of the Utilities release in a folder
+3. Double click 'froggba_xmb.py' and follow what it says - it will ask you to point it to your ROM, ICON0/PIC1 paths, and some settings preferences+
+4. It will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
 
-
-**Inside your PSP SD card:**
-
-1. Navigate into this directory: PSP > GAME, and drop ///
