@@ -11,9 +11,9 @@ You can now play this game fully in english, applying this and another patch mad
 <sup>☕ https://buymeacoffee.com/tojikoumori<sup>
 
 ---------------------------
-# Applying the patch
+# Applying the patch/es
 
-You should apply this patch on top of the case 1-3 one.
+You should apply the case 4 patch on top of the case 1-3 one.
 
 Use an IPS patcher to apply the English patch to your Japanese ROM:
 
