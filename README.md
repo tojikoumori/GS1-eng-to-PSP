@@ -32,7 +32,7 @@ _The end result will appear just like a normal game on your XMB. It will be runn
 
 ## Creating the EBOOT 
 
-1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , and everything in the Utilities release
+1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , and everything in the XMB Builder release
 2. Place the contents of the XMB Builder release in a folder, with FrogGBA and your ROM
 3. Make sure that your FrogGBA folder has a copy of `gba_bios.bin` placed in its root
 4. Run the .bat and optionally configure the emulator's settings inside it
