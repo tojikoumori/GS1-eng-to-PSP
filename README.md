@@ -1,5 +1,5 @@
-# Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA - Case 4 ENG patch, full save, PSP XMB entry 
-This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, and a guide to make the game have its own XMB entry for PSP! 
+# Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA - Case 4 ENG patch, full save, PSP XMB entry, characters voices SFX volume increase patch
+This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, a builder for the game to have its own XMB entry for PSP, and a patch to make the characters voices sfx hearable.
 
 You can now play this game fully in english, applying this and another patch made by h3rmit and spazzery (all credits to them for that!), which translates the first 3 cases. [Download their patch here](https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA)
 
@@ -33,12 +33,12 @@ _The end result will appear just like a normal game on your XMB. It will be runn
 ## Creating the EBOOT 
 
 1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , and everything in the Utilities release
-2. Place the contents of the Utilities release in a folder
-3. Have your FrogGBA folder ready, with a copy of `gba_bios.bin` placed in its root
-4. Double click `froggba_xmb.py` and follow what it says - it will ask you to point it to your FrogGBA/ROM/ICON0/PIC1 paths, and about some settings preferences
+2. Place the contents of the XMB Builder release in a folder, with FrogGBA and your ROM
+3. Make sure that your FrogGBA folder has a copy of `gba_bios.bin` placed in its root
+4. Run the .bat and optionally configure the emulator's settings inside it
 5. It will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
 
 ## [Optional] Using the save file
 
-This is also included in the Utilities release - simply place it into the "save" folder inside your freshly built folder / frogGBA folder. 
+simply place it into the "save" folder inside your freshly built folder / frogGBA folder. 
 
