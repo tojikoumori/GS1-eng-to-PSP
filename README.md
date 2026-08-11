@@ -19,7 +19,7 @@ Use an IPS patcher to apply the English patch to your Japanese ROM:
 # PSP XMB Entry guide
 <img width="1023" height="572" alt="Screenshot_2026-07-28-19-46-05-036_com miui gallery-edit" src="https://github.com/user-attachments/assets/dc3b1a48-a95e-47b2-b17e-19f188aa66e5" />
 
-_The end result will appear just like a normal game on your XMB. It will be running through the FrogGBA emulator, although you won’t see the emulator menu at all — the game will launch straight away._ 
+_The end result will appear just like a normal game on your XMB. It will be running through the FrogGBA emulator, although you won’t see the emulator menu at all — the game will launch straight away._ _note: you might see the emulator menu the first time you launch the game_ 
 
 
 ## Creating the EBOOT 
