@@ -3,14 +3,6 @@ This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: 
 
 You can now play this game fully in english, applying this and another patch made by h3rmit and spazzery (all credits to them for that!), which translates the first 3 cases. [Download their patch here](https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA)
 
----------------------------
-<sup>i make projects for fun and share them to use freely, though i spend so much time on them, 
-
-<sup>so if this was of use to you and you want to support me i appreciate donations :)<sup>
-
-<sup>☕ https://buymeacoffee.com/tojikoumori<sup>
-
----------------------------
 # Applying the patch/es
 
 You should apply the case 4 patch on top of the case 1-3 one.
