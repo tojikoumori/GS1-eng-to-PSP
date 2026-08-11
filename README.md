@@ -21,6 +21,7 @@ Use an IPS patcher to apply the English patch to your Japanese ROM:
 
 _The end result will appear just like a normal game on your XMB. It will be running through the FrogGBA emulator, although you won’t see the emulator menu at all — the game will launch straight away._ _note: you might see the emulator menu the first time you launch the game_ 
 
+_You need the rebuilder mainly to safely rename the eboot, some settings selected from there currently don't persist._
 
 ## Creating the EBOOT 
 
