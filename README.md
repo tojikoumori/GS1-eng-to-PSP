@@ -1,6 +1,7 @@
-# Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA - Case 4 ENG patch, full save, PSP XMB entry, characters voices SFX volume increase patch
-This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, a builder for the game to have its own XMB entry for PSP, and a patch to make the characters voices sfx hearable.
-
+# Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA to PSP
+--------------------
+This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, a builder for the game to have its own XMB entry for PSP, and a patch to make the characters voices sfx hearable (blips).
+------------------
 You can now play this game fully in english, applying this and another patch made by h3rmit and spazzery (all credits to them for that!), which translates the first 3 cases. [Download their patch here](https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA)
 
 # Applying the patch/es
