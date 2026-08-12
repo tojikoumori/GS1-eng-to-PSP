@@ -1,6 +1,6 @@
 # Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA to PSP
 
-This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, a builder for the game to have its own XMB entry for PSP, and a patch to make the characters voices sfx hearable (blips).
+This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, a builder for the game to have its own XMB entry for PSP, and a patch to make the characters voices sfx hearable (blips) - since you originally could barely hear it.
 
 ------------------
 You can now play this game fully in english, applying this and another patch made by h3rmit and spazzery (all credits to them for that!), which translates the first 3 cases. [Download their patch here](https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA)
@@ -34,5 +34,5 @@ _You need the rebuilder mainly to safely rename the eboot, some settings selecte
 
 ## [Optional] Using the save file
 
-simply place it into the "save" folder inside your freshly built folder / frogGBA / ToadGBA folder. _note: if using ToadGBA, you should place your save in its root as well.
+simply place it into the "save" folder inside your freshly built folder / frogGBA / ToadGBA folder. _note: if using ToadGBA, you should place your save in its root as well._
 
