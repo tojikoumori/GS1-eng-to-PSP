@@ -21,13 +21,13 @@ Use an IPS patcher to apply the English patch to your Japanese ROM:
 # PSP XMB Entry guide
 <img width="1023" height="572" alt="Screenshot_2026-07-28-19-46-05-036_com miui gallery-edit" src="https://github.com/user-attachments/assets/dc3b1a48-a95e-47b2-b17e-19f188aa66e5" />
 
-_The end result will appear just like a normal game on your XMB. It will be running through the FrogGBA emulator, although you won’t see the emulator menu at all — the game will launch straight away._ _note: you might see the emulator menu the first time you launch the game_ 
+_The end result will appear just like a normal game on your XMB. It will be running through emulator, although you won’t see its menu upon launching — the game will launch straight away._ _note: you might see the emulator menu the first time you launch the game_ 
 
 _You need the rebuilder mainly to safely rename the eboot, some settings selected from there currently don't persist._
 
 ## Creating the EBOOT 
 
-1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) or [ToadGBA](https://github.com/AlfonsoVM/ToadGBA/releases/tag/v1.0.43) (an improved fork of the first one) , and the zip in the XMB Builder release
+1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) or [ToadGBA](https://github.com/AlfonsoVM/ToadGBA/releases/tag/v1.0.43) (an improved fork of the first one, recommended) , and the zip in the XMB Builder release
 2. Extract the zip and place FrogGBA/ToadGBA and your ROM in it
 3. Make sure that your FrogGBA/ToadGBA folder has a copy of `gba_bios.bin` placed in its root
 4. Run the .bat, it will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
@@ -36,3 +36,8 @@ _You need the rebuilder mainly to safely rename the eboot, some settings selecte
 
 simply place it into the "save" folder inside your freshly built folder / frogGBA / ToadGBA folder. _note: if using ToadGBA, you should place your save in its root as well._
 
+## Troubleshooting
+
+_problems you might encounter:_
+
+corrupted looking text: it can be fixed by pressing select on your psp, it will open the in-game menu where you can save, closing it will restore the text.
