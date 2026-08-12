@@ -27,13 +27,12 @@ _You need the rebuilder mainly to safely rename the eboot, some settings selecte
 
 ## Creating the EBOOT 
 
-1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) , and everything in the XMB Builder release
-2. Place the contents of the XMB Builder release in a folder, with FrogGBA and your ROM
-3. Make sure that your FrogGBA folder has a copy of `gba_bios.bin` placed in its root
-4. Run the .bat and optionally configure the emulator's settings inside it
-5. It will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
+1. Download [FrogGBA](https://github.com/tzubertowski/FrogGBA) or [ToadGBA](https://github.com/AlfonsoVM/ToadGBA/releases/tag/v1.0.43) (an improved fork of the first one) , and the zip in the XMB Builder release
+2. Extract the zip and place FrogGBA/ToadGBA and your ROM in it
+3. Make sure that your FrogGBA/ToadGBA folder has a copy of `gba_bios.bin` placed in its root
+4. Run the .bat, it will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
 
 ## [Optional] Using the save file
 
-simply place it into the "save" folder inside your freshly built folder / frogGBA folder. 
+simply place it into the "save" folder inside your freshly built folder / frogGBA / ToadGBA folder. _note: if using ToadGBA, you should place your save in its root as well.
 
