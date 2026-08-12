@@ -40,4 +40,4 @@ simply place it into the "save" folder inside your freshly built folder / frogGB
 
 _problems you might encounter:_
 
-corrupted looking text: it can be fixed by pressing select on your psp, it will open the in-game menu where you can save, closing it will restore the text.
+**corrupted looking text:** it can be fixed by pressing select on your psp, it will open the in-game menu where you can save, closing it will restore the text.
