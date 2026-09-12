@@ -1,7 +1,6 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/tojikoumori)
 
 <img width="240" height="160" alt="r2_b8ba13db-0958-4c55-bfb8-c0076cae3e04" src="https://github.com/user-attachments/assets/5fde244a-706d-4150-971f-1736a6136c79" />
-
 # Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA to PSP
 
 This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, a builder for the game to have its own XMB entry for PSP, and a patch to make the characters voices sfx hearable (blips) - since you originally could barely hear it.
