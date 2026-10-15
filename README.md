@@ -1,26 +1,16 @@
-# Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA to PSP
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/tojikoumori)
+# Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA to PSP (XMB Entry, launched through emulator!)
 
 <img width="240" height="160" alt="r2_b8ba13db-0958-4c55-bfb8-c0076cae3e04" src="https://github.com/user-attachments/assets/5fde244a-706d-4150-971f-1736a6136c79" />
 
-This is a project about Gyakuten Saiban / Ace Attorney 1 for GBA that releases: last missing case 4 english patch, a .sav with all cases unlocked, a builder for the game to have its own XMB entry for PSP, and a patch to make the characters voices sfx hearable (blips) - since you originally could barely hear it.
+You can now play this game fully in english, a lot of people have worked on this more recently! credits to h3rmit and spazzery for their hard work on the first 1-3 cases and everyone else that helped decompile the game - https://github.com/atasro2/pwaa1 
 
-------------------
-You can now play this game fully in english, applying this and another patch made by h3rmit and spazzery (all credits to them for that!), which translates the first 3 cases. [Download their patch here](https://www.gamebrew.org/wiki/Phoenix_Wright_-_Ace_Attorney_GBA)
+# Downloading the newest patch
 
-# Applying the patches
+https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation
 
-You should apply the case 4 patch on top of the case 1-3 one.
+# Downloading the save file with all cases unlocked
 
-Use an IPS patcher to apply the English patch to your Japanese ROM:
-
-**Using [Floating IPS](https://www.romhacking.net/utilities/1040/) (Windows/Linux):**
-1. Open FLIPS
-2. Click **Apply patch**
-3. Select both of the `.ips` files
-4. Select your Gyakuten Saiban ROM
-5. Save as a new file
+https://github.com/tojikoumori/GS1-eng-to-PSP/releases/tag/sav
 
 # PSP XMB Entry guide
 <img width="1023" height="572" alt="Screenshot_2026-07-28-19-46-05-036_com miui gallery-edit" src="https://github.com/user-attachments/assets/dc3b1a48-a95e-47b2-b17e-19f188aa66e5" />
@@ -36,12 +26,9 @@ _You need the rebuilder mainly to safely rename the eboot, some settings selecte
 3. Make sure that your FrogGBA/ToadGBA folder has a copy of `gba_bios.bin` placed in its root
 4. Run the .bat, it will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
 
+*more gba emulators for psp have been worked on! i'll have to inform myself and update this.*
+
 ## [Optional] Using the save file
 
 simply place it into the "save" folder inside your freshly built folder / frogGBA / ToadGBA folder. _note: if using ToadGBA, you should place your save in its root as well._
 
-## Troubleshooting
-
-_problems you might encounter:_
-
-**corrupted looking text:** it can be fixed by pressing select on your psp, it will open the in-game menu where you can save, closing it will restore the text.
