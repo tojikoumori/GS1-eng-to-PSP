@@ -8,7 +8,7 @@ You can now play this game fully in english, a lot of people have worked on this
 
 https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation
 
-# Downloading the save file with all cases unlocked
+# Save file with all cases unlocked
 
 https://github.com/tojikoumori/GS1-eng-to-PSP/releases/tag/sav
 
