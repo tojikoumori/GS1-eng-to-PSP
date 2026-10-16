@@ -6,7 +6,7 @@ You can now play this game fully in english, a lot of people have worked on this
 
 <sup><sub>This repo was an inspiration for people to work more throughly on case's 4 english patch! I originally released one, but it lacked DS improvements/animations and there was an issue with it.<sup><sub> 
 
-# Downloading the newest patch
+# Downloading the newest english patch
 
 https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation
 
