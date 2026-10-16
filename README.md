@@ -28,8 +28,6 @@ _You need the rebuilder mainly to safely rename the eboot, some settings selecte
 3. Make sure that your FrogGBA/ToadGBA folder has a copy of `gba_bios.bin` placed in its root
 4. Run the .bat, it will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
 
-*more gba emulators for psp have been worked on! i'll have to inform myself and update this.*
-
 ## [Optional] Using the save file
 
 simply place it into the "save" folder inside your freshly built folder / frogGBA / ToadGBA folder. _note: if using ToadGBA, you should place your save in its root as well._
