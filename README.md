@@ -10,10 +10,6 @@ You can now play this game fully in english, a lot of people have worked on this
 
 https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation
 
-# Save file with all cases unlocked
-
-https://github.com/tojikoumori/GS1-eng-to-PSP/releases/tag/sav
-
 # PSP XMB Entry guide
 <img width="1023" height="572" alt="Screenshot_2026-07-28-19-46-05-036_com miui gallery-edit" src="https://github.com/user-attachments/assets/dc3b1a48-a95e-47b2-b17e-19f188aa66e5" />
 
@@ -28,7 +24,9 @@ _You need the rebuilder mainly to safely rename the eboot, some settings selecte
 3. Make sure that your FrogGBA/ToadGBA folder has a copy of `gba_bios.bin` placed in its root
 4. Run the .bat, it will build a folder, ready to drop into this directory inside your PSP SD card! -> PSP > GAME
 
-## [Optional] Using the save file
+# Save file with all cases unlocked
+
+https://github.com/tojikoumori/GS1-eng-to-PSP/releases/tag/sav
 
 simply place it into the "save" folder inside your freshly built folder / frogGBA / ToadGBA folder. _note: if using ToadGBA, you should place your save in its root as well._
 
