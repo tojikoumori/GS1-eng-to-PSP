@@ -1,5 +1,7 @@
 # Gyakuten Saiban 1 / Phoenix Wright: Ace Attorney GBA to PSP (XMB Entry, launched through emulator!)
 
+<img width="736" height="559" alt="dd3dd64ff9c1de3762b593b4b03088a4" src="https://github.com/user-attachments/assets/8d9b0c66-cef3-46bb-8833-a2ce0cd02b8d" />
+
 You can now play this game fully in english, a lot of people have worked on this more recently! credits to h3rmit and spazzery for their hard work on the first 1-3 cases and everyone else that helped decompile the game: https://github.com/atasro2/pwaa1 
 
 <sup><sub>This repo was an inspiration for people to work more throughly on case's 4 english patch! I originally released one, but it lacked DS improvements/animations and there was an issue with it.<sup><sub> 
