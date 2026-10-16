@@ -4,6 +4,8 @@
 
 You can now play this game fully in english, a lot of people have worked on this more recently! credits to h3rmit and spazzery for their hard work on the first 1-3 cases and everyone else that helped decompile the game - https://github.com/atasro2/pwaa1 
 
+<sup><sub>This repo was an inspiration for people to work more throughly on case's 4 english patch! I originally released one, but it lacked DS improvements/animations and there was an issue with it.<sup><sub> 
+
 # Downloading the newest patch
 
 https://github.com/Acer-2006/Gyakuten-Saiban_1_GBA-English-translation
